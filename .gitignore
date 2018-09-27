@@ -1,0 +1,12 @@
+wp
+!/.gitignore
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+.idea
+*.iml
+__init__.py
+**/spec/fixtures/*
+.terraform
+terraform.tfstate*
+
